@@ -1,0 +1,4 @@
+# 草薙宁宁主题：把本包的浏览器插件行插入 profile 组合
+- insert:
+    - id: nene-theme
+      name: 'dsh-nene-theme'
